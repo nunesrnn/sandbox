@@ -1,4 +1,3 @@
-Copilot said:
 Padrão de Notebook Big Table — Databricks PREVI
 
 Fonte: Análise de 200+ tabelas nos schemas efinanceira, suporte_a_operacao, operacoes_com_participantes e previ_futuro. Referência modelo: silver_pfam_efinanc_conferencia_mod_previdenciario.
